@@ -205,6 +205,10 @@ margin-bottom: 30px;
         width: 340px;
        justify-items: center;
     }
+    .navbar{
+        margin: 0;
+        margin-left: -62px;
+    }
     .container{
         width: 100%;
     }
